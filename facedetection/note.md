@@ -21,13 +21,13 @@ gif images from the demo
 ![broken link](movie/Haar.gif)
 OpenCV HaarCascade
 
-![broken link](/movie/DlibHOG.gif)
+![broken link](movie/DlibHOG.gif)
 DlibHOG
 
-![broken link](/movie/MTCNN.gif)
+![broken link](movie/MTCNN.gif)
 MTCNN
 
-![broken link](/movie/MobileNetSSD.gif)
+![broken link](movie/MobileNetSSD.gif)
 MobileNetSSD
 
 ---
