@@ -4,7 +4,7 @@ https://medium.com/nodeflux/performance-showdown-of-publicly-available-face-dete
 
 https://seongkyun.github.io/study/2019/03/25/face_detection/
 
-모델별 추론 시간
+모델별 추론 시간  
 ![](https://miro.medium.com/max/700/1*Xhhwn_y5ZL-O-alPQXLvEQ.jpeg)
 
 Dell XPS 랩탑으로 4가지 모델 테스트:
@@ -29,3 +29,7 @@ MTCNN
 
 ![broken link](/movie/MobileNetSSD.gif)
 MobileNetSSD
+
+---
+# Face Detection dataset
+http://shuoyang1213.me/WIDERFACE/
