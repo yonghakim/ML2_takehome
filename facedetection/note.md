@@ -17,18 +17,18 @@ TODO: Adding technical details for each Model
 
 
 ---
-gif images from the demo
-![broken link](movie/Haar.gif)
-OpenCV HaarCascade
+gif images from the demo  
+![broken link](movie/Haar.gif)  
+OpenCV HaarCascade  
 
-![broken link](movie/DlibHOG.gif)
-DlibHOG
+![broken link](movie/DlibHOG.gif)  
+DlibHOG  
 
-![broken link](movie/MTCNN.gif)
-MTCNN
+![broken link](movie/MTCNN.gif)  
+MTCNN  
 
-![broken link](movie/MobileNetSSD.gif)
-MobileNetSSD
+![broken link](movie/MobileNetSSD.gif)  
+MobileNetSSD  
 
 ---
 # Face Detection dataset
