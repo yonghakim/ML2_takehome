@@ -9,9 +9,12 @@ MTCNN pipeline
 3. O-Net with step2 result as an input
 
 The architectures for each network
-![](source/mtcnn_fig2.png)
-Inference time for each network
-![](source/mtcnn_table1.png)
+![](source/mtcnn_fig2.png)  
+
+Inference time for each network  
+
+![](source/mtcnn_table1.png)  
+
 * It shows that the O-Net takes the biggest part from total inference time
 * O-Net has the same output shape as R-Net's  
 
